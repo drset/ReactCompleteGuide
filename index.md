@@ -4,5 +4,6 @@
     </head>
     <body>
         <h1>Hello Word!</h1>
+        <div> This page should be available at https://drset.github.io/ReactCompleteGuide/</div>
     </body>
 </html>
